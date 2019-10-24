@@ -18,7 +18,7 @@
 ### James Bach
 
 - Context-driven School of software Testing
-- Referência: <https://www.satisfice.com
+- Referência: <https://www.satisfice.com>
 
 	- <https://www.satisfice.com/exploratory-testing>
 
@@ -37,7 +37,7 @@
 - Java
 - Referência
 
-	-  <http://angiejones.tech
+	-  <http://angiejones.tech>
 	- <https://testautomationu.applitools.com>
 
 ### Joe Colatino
