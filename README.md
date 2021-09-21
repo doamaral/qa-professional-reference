@@ -147,8 +147,7 @@
 - Referências
 
   - <https://medium.com/@papito>
-  - <https://www.qaxperience.com>
-  - <https://www.qaninja.io>
+  - <https://www.qaxperience.com>  - <https://qaninja.academy/>
 
 - Automação de Testes
 
