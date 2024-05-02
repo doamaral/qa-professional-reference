@@ -17,8 +17,8 @@
 ### James Bach
 
 - Context-driven School of software Testing
-- Referência: <https://www.satisfice.com>
-
+- Referência:
+  - <https://www.satisfice.com>
   - <https://www.satisfice.com/exploratory-testing>
 
 ### Lisa Crispin & Janet Gregory
@@ -128,6 +128,12 @@
 
   - Udemy: <https://www.udemy.com/user/eliasnogueira/>
   - <http://www.eliasnogueira.com/>
+
+### Alan Voigt
+  - <https://www.linkedin.com/in/alan-voigt/>
+
+### Joao Farias
+  - <https://www.linkedin.com/in/joaogfarias/>
 
 ### Samantha Cicília
 
